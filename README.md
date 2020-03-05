@@ -23,8 +23,8 @@ installation command for linux
 
 
 ``` 
-      git clone ..
-      cd to cloned repo directory
+      git clone https://github.com/XLAR-8/C-PBM-ARRAY-TOOL.git
+      cd C-PBM-ARRAY-TOOL
       mkdir build 
       cmake.. 
       ./tool
